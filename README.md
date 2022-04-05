@@ -1,5 +1,7 @@
 ## AirBnB Data Analysis Using Google Cloud Platform
 
+### Business Overview
+
 Airbnb is one of the most used methods to find a place to stay in most of the major cities in the world. It has dramatically changed the traditional way to find accommodations for short periods of stays and even longer ones. I would mainly like to concentrate on the following questions being raised: 
  * What is the seasonal pattern of Airbnb in Seattle? 
  * What kinds of Airbnb homes are popular? 
@@ -19,7 +21,7 @@ The data that I would like to use for this project is from http://insideairbnb.c
   *	Reviews.csv 
 
 
-### Cleaning of Data set
+### Data Transformation/Cleaning of Data set
 
 First we drop the columns with null entries and columns which are almost the same. There are multiple columns for property location, including an attempt by the site that originally scraped the data to clean up the neighbourhood locations. Some of those columns are dropped. Because all listings are in Seattle, columns relating to city and country can be dropped. There are multiple columns for maximum and minimum night stays, but the two main ones will be used as there are few differences between e.g. minimum_nights and minimum_minimum_nights. Several columns only contain one category and are dropped.
 
