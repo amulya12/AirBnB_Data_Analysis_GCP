@@ -1,11 +1,14 @@
-## AirBnB Data Analysis
+## AirBnB Data Analysis Using Google Cloud Platform
 
 Airbnb is one of the most used methods to find a place to stay in most of the major cities in the world. It has dramatically changed the traditional way to find accommodations for short periods of stays and even longer ones. I would mainly like to concentrate on the following questions being raised: 
-•	What is the seasonal pattern of Airbnb in Seattle? 
-•	What kinds of Airbnb homes are popular? 
-•	Prediction of the price. 
+ * What is the seasonal pattern of Airbnb in Seattle? 
+ * What kinds of Airbnb homes are popular? 
+ * Prediction of the price. 
 
 The outcome of this project would help businesses narrow down their target marketing customer base towards the most likely prospective customers and this project would also help the business to understand how various attributes affect the client to accept or reject the Airbnb home. 
+
+### Proposed Architecture
+![IMG_6E44A272303C-1](https://user-images.githubusercontent.com/30744874/161822507-e50ccab5-ce94-4dea-b7bd-668a68ad9430.jpeg)
 
 
 ### Dataset Description
