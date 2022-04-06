@@ -15,7 +15,7 @@ The outcome of this project would help businesses narrow down their target marke
 
 ### Dataset Description
 
-The data that I would like to use for this project is from http://insideairbnb.com/get-the-data.html .From this I would like to use the following csv data sets. 
+The data that I would like to use for this project is from http://insideairbnb.com/get-the-data .From this I would like to use the following csv data sets. 
   *	Calendar.csv
   *	Listings.csv
   *	Reviews.csv 
